@@ -1,0 +1,22 @@
+canvas {
+    clear:both;
+    display: block;
+    cursor: crosshair;
+}
+
+body {
+    background: #333;
+}
+
+span {
+    margin:5px 10px;
+    width: 25px;
+    height: 25px;
+    flex-direction: column;
+}
+
+.toolbar {
+    background-color: #4DA3E0;
+    display: flex;
+    margin-bottom: 10px;
+}
